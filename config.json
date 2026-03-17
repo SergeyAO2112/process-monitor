@@ -1,0 +1,15 @@
+{
+    "apps": [
+        "AnyDesk",
+        "TeamViver",
+        "Microsoft Remote Desktop",
+        "ARDAgent",
+        "Chrome Remote Dekstop Host",
+        "VNC Server",
+        "Splashtop Streamer",
+        "unvc_service",
+        "rutserv"
+    ],
+    "Check_seconds": 30,
+    "log_file": "monitor.log"
+}
